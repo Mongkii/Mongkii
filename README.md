@@ -1,4 +1,4 @@
-### 👈 he is a frontender!
+### 👈 he is a front-end developer!
 - 😪 **Want to learn:** Rich text editor
 >
 - 👷 **Recently working on:** [My Personnal Page](https://www.mongkii.com/)
