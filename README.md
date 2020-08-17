@@ -2,7 +2,7 @@
 - 😪 **Want to learn:** Rich text editor
 >
 - 👷 **Recently working on:** [My Personnal Page](https://www.mongkii.com/)
-- 🎮 **Recently playing:** [Neon Abyss](https://store.steampowered.com/app/788100)
+- 🎮 **Recently playing:** [Shadow of the Tomb Raider](https://store.steampowered.com/app/750920)
 - 🙉 **Recently listening:** [LETTERS - BiSH](https://music.apple.com/jp/album/letters/1519409860)
 >
 ![My github stats](https://github-readme-stats.vercel.app/api?username=mongkii&show_icons=true&title_color=1e8603&text_color=68b587&icon_color=b7d364)
