@@ -1,8 +1,6 @@
 ### 👈 he is a front-end developer!
 
-Read more of me on [My Personnal Site](https://www.mongkii.com/)
-
-----
+> Read more of me on [My Personnal Site](https://www.mongkii.com/)
 
 - 😪 **Want to learn:** Rich text editor
 >
