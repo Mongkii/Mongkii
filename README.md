@@ -1,7 +1,10 @@
 ### 👈 he is a front-end developer!
+
+Read more about me on [My Personnal Site](https://www.mongkii.com/)
+
 - 😪 **Want to learn:** Rich text editor
 >
-- 👷 **Recently working on:** [My Personnal Page](https://www.mongkii.com/)
+- 👷 **Recently working on:** [Learn Rust](https://tourofrust.com/00_en.html)
 - 🎮 **Recently playing:** [Shadow of the Tomb Raider](https://store.steampowered.com/app/750920)
 - 🙉 **Recently listening:** [LETTERS - BiSH](https://music.apple.com/jp/album/letters/1519409860)
 >
