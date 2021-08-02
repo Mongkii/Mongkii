@@ -4,9 +4,8 @@
 
 - 😪 **Want to learn:** Rich text editor
 >
-- 👷 **Recently working on:** [Learn Rust](https://tourofrust.com/00_en.html)
-- 🎮 **Recently playing:** [Cyberpunk 2077](https://store.steampowered.com/app/1091500)
-- 🙉 **Recently listening:** [PUNK - CHAI](https://open.spotify.com/album/6oeCIaop263lsQTVTvNv9e)
+- 🎮 **Recently playing:** [Baldur's Gate 3](https://store.steampowered.com/app/1086940)
+- 🙉 **Recently listening:** [STAR - BiSH](https://open.spotify.com/album/102ej3hatsKnfnnUN3bAm4)
 >
 ![My github stats](https://github-readme-stats.vercel.app/api?username=mongkii&show_icons=true&title_color=1e8603&text_color=68b587&icon_color=b7d364)
 
