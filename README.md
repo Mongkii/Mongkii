@@ -5,7 +5,7 @@
 - 😪 **Want to learn:** Rich text editor
 >
 - 🎮 **Recently playing:** [Baldur's Gate 3](https://store.steampowered.com/app/1086940)
-- 🙉 **Recently listening:** [STAR - BiSH](https://open.spotify.com/album/102ej3hatsKnfnnUN3bAm4)
+- 🙉 **Recently listening:** [GOiNG TO DESTRUCTiON - BiSH](https://open.spotify.com/album/7iW6gI1UXbrYAfg07WlsIy)
 >
 ![My github stats](https://github-readme-stats.vercel.app/api?username=mongkii&show_icons=true&title_color=1e8603&text_color=68b587&icon_color=b7d364)
 
