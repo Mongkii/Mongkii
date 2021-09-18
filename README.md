@@ -3,8 +3,9 @@
 > Read more of me on [My Personal Site](https://mongkii.com/)
 
 - 😪 **Want to learn:** Rich text editor
->
-- 🎮 **Recently playing:** [Baldur's Gate 3](https://store.steampowered.com/app/1086940)
+
+- 👷 **Recently working on:** [Learn Rust](https://tourofrust.com/00_en.html)
+- 🎮 **Recently playing:** [Eastward](https://store.steampowered.com/app/977880)
 - 🙉 **Recently listening:** [GOiNG TO DESTRUCTiON - BiSH](https://open.spotify.com/album/7iW6gI1UXbrYAfg07WlsIy)
 >
 ![My github stats](https://github-readme-stats.vercel.app/api?username=mongkii&show_icons=true&title_color=1e8603&text_color=68b587&icon_color=b7d364)
