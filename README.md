@@ -2,11 +2,11 @@
 
 > Read more of me on [My Personal Site](https://mongkii.com/)
 
-- 😪 **Want to learn:** Rich text editor
+- 😪 **Want to learn:** Game Engine Development
 
-- 👷 **Recently working on:** [Learn Rust](https://tourofrust.com/00_en.html)
-- 🎮 **Recently playing:** [Eastward](https://store.steampowered.com/app/977880) (Just buy and play this f\*\*king game!)
-- 🙉 **Recently listening:** [GOiNG TO DESTRUCTiON - BiSH](https://open.spotify.com/album/7iW6gI1UXbrYAfg07WlsIy)
+- 👷 **Recently working on:** [GameMaker Studio](https://gamemaker.io/)
+- 🎮 **Recently playing:** [Demon's Souls](https://www.playstation.com/en-us/games/demons-souls/)
+- 🙉 **Recently listening:** [春ねむり - 春火燎原](https://open.spotify.com/album/0PuAbMj3Q0pg3XuNTYY9yM)
 >
 ![My github stats](https://github-readme-stats.vercel.app/api?username=mongkii&show_icons=true&title_color=1e8603&text_color=68b587&icon_color=b7d364)
 
