@@ -6,7 +6,7 @@
 
 - 👷 **Recently working on:** [GameMaker Studio](https://gamemaker.io/)
 - 🎮 **Recently playing:** [Demon's Souls](https://www.playstation.com/en-us/games/demons-souls/)
-- 🙉 **Recently listening:** [春ねむり - 春火燎原](https://open.spotify.com/album/0PuAbMj3Q0pg3XuNTYY9yM)
+- 🙉 **Recently listening:** [Britney Spears - Femme Fatale](https://open.spotify.com/album/6cae5JwPtLQSFoGPqqb0Ft)
 >
 ![My github stats](https://github-readme-stats.vercel.app/api?username=mongkii&show_icons=true&title_color=1e8603&text_color=68b587&icon_color=b7d364)
 
